@@ -44,14 +44,6 @@ end
 
 activate :blog
 
-activate :deploy do |deploy|
-  deploy.method       = :git
-  deploy.build_before = true
-  deploy.strategy     = :submodule
-  deploy.branch       = 'master'
-  deploy.remote       = 'git@github.com:therabona/therabona.git'
-end
-
 config[:css_dir] = 'stylesheets'
 config[:js_dir] = 'javascripts'
 config[:images_dir] = 'images'
