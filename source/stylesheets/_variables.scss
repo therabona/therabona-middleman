@@ -11,11 +11,12 @@ $bootstrap-sass-asset-helper: (twbs-font-path("") != unquote('twbs-font-path("")
 //
 //## Gray and brand colors for use across Bootstrap.
 
-$gray-darker:            lighten(#000, 13.5%) !default; // #222
-$gray-dark:              lighten(#000, 20%) !default;   // #333
-$gray:                   lighten(#000, 33.5%) !default; // #555
-$gray-light:             lighten(#000, 46.7%) !default; // #777
-$gray-lighter:           lighten(#000, 93.5%) !default; // #eee
+$gray-darker:            #37474f;
+$gray-dark:              #546e7a;
+$gray:                   #78909c;
+$gray-light:             #b0bec5;
+$gray-lighty:            #cfd8dc;
+$gray-lighter:           #eceff1;
 
 $brand-primary:         #428bca !default;
 $brand-success:         #5cb85c !default;

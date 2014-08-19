@@ -2,17 +2,18 @@
 title: Of Lebanovskyi and Kyiv
 date: 2014-08-19 01:41 UTC
 category: Secret Footballer
+thumb: lobanovskyi.jpeg
 tags:
 ---
 
-“With a little work, you can break down Valeri Lobanovsky's background and find the answers that explain why he was one of the greatest footballing minds ever. He was a naturally gifted footballer, albeit very much an individualist and that, ultimately, taught him the value of the collective.” – Gabriele Marcotti, 2013
+> “With a little work, you can break down Valeri Lobanovsky's background and find the answers that explain why he was one of the greatest footballing minds ever. He was a naturally gifted footballer, albeit very much an individualist and that, ultimately, taught him the value of the collective.”
+> <footer><cite>Gabriele Marcotti, 2013</cite></footer>
 
 In short, the achievements of the collective was the ultimate yardstick by which the great Valeriy Lobanovskyi measured his career. The legendary Ukrainian manager is synonymous with Dynamo Kyiv, the team he managed for most of his career and where he achieved his greatest successes in management. Two Cup Winners’ Cups and a UEFA Super Cup is no mean feat, especially with clubs taking the former (now defunct) competition very seriously in those days. Aside from his role in transforming Dynamo Kyiv into one of the most feared and technically proficient sides on the continent, Lobanovskyi’s role in marrying sport and science had a huge impact on the modern game, with many of today’s philosophies borne directly from his innovative methodologies.
 
 He first took over Dynamo Kyiv in 1974, after a spell at Dnipro Dnipropetrovsk which saw them get promoted to the Soviet Top League. Dynamo would come calling and Lobanovskyi would pack his bags for his beloved club where he would stay for the next 17 years, in between three spells in charge of the USSR. Breaking the dominance of Russian clubs, by the end of his tenure, Dynamo Kiev were the most successful team in the history of the Soviet Top League with 13 league titles to their name, eight of which were contributed by Lobanovskyi.
 
-Philosophy and Ideology
-
+#### Philosophy and Ideology
 
 Lobanovskyi was a rare breed of manager – he was formerly a player of some repute, but he also had the vision to study and implement new tactics and methods devised through scientific means to create the optimum footballing machine. He would go on to outshine his mentor, Viktor Maslov, who was Lobanovskyi’s main influence. The Russian was noted for inventing the 4-4-2 formation, and having first introduced the pressing game so prevalent in today’s game, but was lightyears ahead of his time. Having learnt and seen first-hand the influence of science on sport, Lobanovskyi would continue his coach’s work to the point of obsession, with players constituting specific elements in the compound that was Dynamo Kyiv. No deviation was necessary (or even allowed), with the Ukrainian expecting every member of his team to follow his instructions to the letter. Of course, this was only in the positional sense. Every member of the team was required to know how to play in any position on the pitch – the Soviet answer to total football if you will.
 
@@ -22,11 +23,13 @@ Lobanovskyi realised early on that full pressing would enable Dynamo to win the 
 
 To Lobanovskyi, football was a system that comprised of 22 elements, with each subsystem of 11 moving around in their areas of the pitch, with laws dictating what could be done and what could not. In theory, if Dynamo were to come up a team that played exactly like them, the two subsystems would cancel each other out and the match would end in a draw.
 
-“The first thing we have in mind is to strive for new courses of action that will not allow the opponent to adapt to our style of play. If an opponent has adjusted himself to our style of play and found a counterplay, then we need to find a new strategy. That is the dialectic of the game. You have to go forward in such a way and with such a range of attacking options that it will force the opponent to make a mistake. In other words, it’s necessary to force the opponent into the condition you want them to be in.” – Valeriy Lobanovskyi
+> “The first thing we have in mind is to strive for new courses of action that will not allow the opponent to adapt to our style of play. If an opponent has adjusted himself to our style of play and found a counterplay, then we need to find a new strategy. That is the dialectic of the game. You have to go forward in such a way and with such a range of attacking options that it will force the opponent to make a mistake. In other words, it’s necessary to force the opponent into the condition you want them to be in.”
+> <footer><cite>Valeriy Lobanovskyi</cite></footer>
 
 Naturally, Lobanovskyi discovered early on the importance of strength and stamina in his teams, as well as mental capacity. His use of computers was integral to the preparations. Mountains of statistics were compiled and players would be subjected to intense physical training sessions as well as mental tests. Players were expected to memorise the positions of all teammates across the pitch; in the event that a player found himself in a foreign position, he would be able to play the ball to a teammate effortlessly and quickly, giving the opposition no time to react. This training style created a team of physically and intellectually superior players – the exact type of player Lobanovskyi required to ensure optimum results from his pressing system.
 
-“Players have to react faster. Every moment, every action happens faster. Think faster, act faster – this is the football of the future.” – Valeriy Lobanovskyi
+> “Players have to react faster. Every moment, every action happens faster. Think faster, act faster – this is the football of the future.”
+> <footer><cite>Valeriy Lobanovskyi</cite></footer>
 
 The results certainly backed up his methods, even if not all of his players took kindly to them. Winning the Soviet League eight times certainly proved his credentials as a manager, especially with Dynamo being the only Ukrainian club to pose a threat to the dominance of larger, wealthier Russian clubs. Club legends such as Oleg Blokhin, Igor Belanov and Andriy Shevchenko all thrived under his tutelage, with each of them going on to win the prestigious Ballon d’Or in their careers.
 
@@ -34,7 +37,7 @@ Perhaps the culmination of his footballing philosophy came in the final of the 1
 
 It was a triumph that would prove to be the pinnacle of his career. Further Soviet Top League titles would follow, as well as a defeat in the final of the 1988 European Championship thanks to a bullet header from Ruud Gullit and Marco van Basten’s volleyed wonder goal. Two undistinguished spells would follow in the UAE and Kuwait, with Lobanovskyi returning home to Dynamo for a second spell in 1997.
 
-The Second Coming
+#### The Second Coming
 
 Perhaps his second spell at the club would prove to be his greatest unheralded achievement. Having rejoined in January 1997, he set about stabilising the club and optimising the talented young squad he had at his disposal. Shevchenko and Sergei Rebrov were the marksmen, Aleksandr Khatsekevich and Valentin Belkevich ran the show in the middle, while Oleg Luzhny and Kakha Kaladze marshalled the backline. The sextet would be core members of his final great team that won five consecutive league titles between 1997 and 2001. But it is their European exploits that brought them all to the consciousness of the football world. Early indications were served in the 97/98 Champions League, where Dynamo Kyiv reached the quarterfinals, spearheaded by the deadly striking partnership formed by Rebrov and Shevchenko. This run including a 4-0 thrashing of Barcelona at the Nou Camp, with the irrepressible Shevchenko grabbing a hat-trick and Dynamo’s pressing pattern forcing Barcelona to play the game on their terms. The last real team formed under his philosophy of the collective, Lobanovskyi would prepare Dynamo for an assault on Europe the following season, one that very nearly altered the course of one of the most iconic moments in Champions League history.
 
@@ -46,7 +49,7 @@ There was a sense of destiny for Lobanovskyi, having previous failed at the semi
 
 That fateful night in Kyiv would prove to be the final hurrah for the team, with Shevchenko departing for Milan while Luzhny packed up for Arsenal. Rebrov would head for England in 2000 and Kaladze would join up with Shevchenko in 2001. Milan were also credited with an interest in Belkevich, but ultimately, the move never occurred for the fine Belarussian playmaker. Dynamo would never be the same again, and although they almost beat Real Madrid to a quarterfinal place in the 99/00 Champions League, only losing out on their head-to-head record, they would never come close to emulating their previous season’s run again. To date, Dynamo are the last side from the Eastern Bloc to have reached the semifinal or better; no club has come close.
 
-Post 1999
+#### Post 1999
 
 Lobanovskyi would die doing what he loved most, leading Dynamo Kiev to victory. Shortly after defeating Metalurg Zaporizhzhya, the legendary manager would suffer a stroke on May 7, 2002. During a brain surgery six days later, Ukraine would lose one of their most beloved sons. Dynamo Kyiv would rename their stadium after him in a show of respect and appreciation for his service to the club. Over 200,000 people would attend his state funeral, including Shevchenko and various alumni of the great Dynamo teams of the 70’s and 80’s, mourning a man who had not only transformed Dynamo, but football as a whole.
 
@@ -58,7 +61,7 @@ He duly scored the away goal against Inter that clinched Milan’s place in the 
 
 The shadow of Lobanovskyi was again cast over Ukraine during EURO 2012, where the home nation was led by Blokhin and captained by Shevchenko, who duly delivered a final heroic cameo, scoring a brace in a 2-1 comeback victory over Sweden. Perhaps more fittingly, Ukraine’s style of play resembled a team focused on the collective, much like Lobanovskyi’s teams of years gone by, albeit a less talented version, but an homage to the great man nonetheless.
 
-Jonathan Wilson talks about the impact of Lobanovskyi in a great article from [The Guardian] (http://www.theguardian.com/football/blog/2011/may/12/valeriy-lobanovskyi-dynamo-kyiv), where a tidy little anecdote emerges that summarises the man. During a visit to the Science and Research Institute of the Construction Industry after winning the league, he shared a short exchange with the scientist Volodymyr Sabaldyr.
+Jonathan Wilson talks about the impact of Lobanovskyi in a great article from [The Guardian](http://www.theguardian.com/football/blog/2011/may/12/valeriy-lobanovskyi-dynamo-kyiv), where a tidy little anecdote emerges that summarises the man. During a visit to the Science and Research Institute of the Construction Industry after winning the league, he shared a short exchange with the scientist Volodymyr Sabaldyr.
 
 “Yes, we have won the league. But so what? Sometimes we played badly. We just got more points than other teams who played worse than us. I can't accept your praise as there are no grounds for it.”
 

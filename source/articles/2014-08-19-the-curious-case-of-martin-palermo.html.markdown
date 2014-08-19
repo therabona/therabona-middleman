@@ -2,10 +2,12 @@
 title: The Curious Case of – Martín Palermo
 date: 2014-08-19 01:44 UTC
 category: Secret Footballer
+thumb: mpalermo.jpg
 tags:
 ---
 
-“The goals I scored were normal, Palermo makes miracles.” – Diego Maradona
+> “The goals I scored were normal, Palermo makes miracles.”
+> <footer><cite>Diego Maradona</cite></footer>
 
 A folk hero to Boca Juniors, Championship Manager players, and to some extent, Argentina, Martín Palermo was a player who never quite hit the heights he seemed destined for, but is still remembered fondly by those he impacted with his passionate performances on the pitch. At his testimonial, a packed La Bombonera turned out to salute the Boca legend with all the vigour of a Copa Libertadores final. After the game had finished, a tearful Palermo embraced family members and delivered a heartfelt speech to the Boca faithful as forklifts uprooted one of the goals. It was quickly wrapped with a blue and gold bow before Boca presented it to Palermo. An unorthodox present perhaps, but it was a testament to the high regard in which his club held him. What Naohiro Takahara would give for a sliver of his success…
 

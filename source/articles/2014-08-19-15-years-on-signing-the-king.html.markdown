@@ -2,6 +2,7 @@
 title: "15 Years On: Signing the King"
 date: 2014-08-19 01:31 UTC
 category: Secret Footballer
+thumb: sunday.jpg
 tags:
 ---
 

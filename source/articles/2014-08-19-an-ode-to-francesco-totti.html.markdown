@@ -2,6 +2,7 @@
 title: An Ode to – Francesco Totti
 date: 2014-08-19 01:28 UTC
 category: Secret Footballer
+thumb: totti.jpg
 tags:
 ---
 

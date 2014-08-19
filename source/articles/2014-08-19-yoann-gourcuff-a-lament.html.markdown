@@ -2,6 +2,7 @@
 title: "Yoann Gourcuff: A Lament"
 date: 2014-08-19 01:46 UTC
 category: Secret Footballer
+thumb: ygourcuff.jpg
 tags:
 ---
 

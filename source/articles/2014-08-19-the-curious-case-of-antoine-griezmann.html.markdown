@@ -2,6 +2,7 @@
 title: The Curious Case of – Antoine Griezmann
 date: 2014-08-19 00:59 UTC
 category: Secret Footballer
+thumb: agriezmann.jpg
 tags:
 ---
 

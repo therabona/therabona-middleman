@@ -4,8 +4,6 @@ html lang="en"
     meta charset="utf-8"
     meta content="IE=edge" http-equiv="X-UA-Compatible"
     meta content="width=device-width, initial-scale=1" name="viewport"
-    meta content="" name="description"
-    meta content="" name="author"
     link href="../../favicon.ico" rel="icon"
     title The Rabona
 
@@ -18,24 +16,20 @@ html lang="en"
         .navbar-header
           button.navbar-toggle data-target=".navbar-collapse" data-toggle="collapse" type="button"
             span.sr-only Toggle navigation
-            span.icon-bar
-            span.icon-bar
-            span.icon-bar
+            i.fa.fa-bars
           a.navbar-brand href="/" = image_tag "therabona-small.png", alt: "The Rabona"
         .collapse.navbar-collapse
           ul.nav.navbar-nav.navbar-right
-            li.active: a href="#" Home
-            li: a href="#about" About Us
+            li: a href="/" Home
+            li: a href="/about.html" About Us
             li.dropdown
-              a.dropdown-toggle data-toggle="dropdown" href="#"
+              a.dropdown-toggle data-toggle="dropdown" href="#series"
                 | Series
                 span.caret
               ul.dropdown-menu role="menu"
                 li: a href="#" Secret Footballer
                 li: a href="#" Asian League Review
-            li: a href="#shop" Articles
-            li: a href="#shop" Subscribe
-            li: a href="#shop" Shop
+            li: a href="/articles.html" Articles
             li: a href="#contact" Contact
 
     .container
