@@ -9,4 +9,8 @@ gem "middleman-livereload", "~> 3.1.0"
 
 # Blogging
 gem "middleman-blog"
+
+# For feed.xml.builder
+gem "builder", "~> 3.0"
+
 gem "slim"

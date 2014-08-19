@@ -26,6 +26,8 @@ require 'slim'
 #   page "/admin/*"
 # end
 
+page "articles/*", layout: :article
+
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
 #  :which_fake_page => "Rendering a fake page with a local variable" }
@@ -42,7 +44,37 @@ configure :development do
   activate :livereload
 end
 
-activate :blog
+###
+# Blog settings
+###
+
+# Time.zone = "UTC"
+
+activate :blog do |blog|
+  # This will add a prefix to all links, template references and source paths
+  # blog.prefix = "articles"
+  blog.permalink = "articles/{category}/{title}.html"
+  # Matcher for blog source files
+  blog.sources = "articles/{year}-{month}-{day}-{title}.html"
+  # blog.taglink = "tags/{tag}.html"
+  # blog.layout = "layouts/article"
+  blog.summary_separator = /(READMORE)/
+  # blog.summary_length = 250
+  # blog.year_link = "{year}.html"
+  # blog.month_link = "{year}/{month}.html"
+  # blog.day_link = "{year}/{month}/{day}.html"
+  # blog.default_extension = ".markdown"
+
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+
+  # Enable pagination
+  # blog.paginate = true
+  # blog.per_page = 10
+  # blog.page_link = "page/{num}"
+end
+
+page "/feed.xml", layout: false
 
 config[:css_dir] = 'stylesheets'
 config[:js_dir] = 'javascripts'
