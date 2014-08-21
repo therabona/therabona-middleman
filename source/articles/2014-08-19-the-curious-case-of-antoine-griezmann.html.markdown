@@ -6,6 +6,10 @@ thumb: agriezmann.jpg
 tags:
 ---
 
+> “He has a certain quality and sparkle that make him a different type of player to the others.”
+> <footer><cite>Didier Deschamps</cite></footer>
+
+
 As the ink dries on Antoine Griezmann's six-year contract with Atletico Madrid, the small city of Mâcon must seem worlds away from the bright lights of the Spanish capital. At his unveiling on the hallowed turf of the Vicente Calderón, there is even time to indulge in a selfie that would make the rounds online in no time. The fee shelled out remains undisclosed, but reports in Spain suggest that his buyout clause was activated, which means that Los Colchoneros were convinced that thing young Frenchman was worth around €30m. At 23 years of age, Griezmann has the world at his feet, but he could have had it sooner.
 
 Griezmann is a rare breed of French footballer, having begun his youth career outside of France and thus avoiding the route taken by most Frenchman his age which ends at the famed French footballing museum managed by Arsene Wenger. Not that this was due to a lack of trying; several clubs rejected the chance to take on Griezmann as he was perceived as being too small and too weak to make the grade.
@@ -30,6 +34,8 @@ His debut came in a 2014 friendly against the Netherlands where he played the fi
 
 Deschamps had no doubt. Domestically, Griezmann had just enjoyed his finest season personally, scoring 16 times and creating seven goals for Sociedad.
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/mzcPUNgZ5AA?start=86" frameborder="0" allowfullscreen></iframe>
+
 “He is decisive. He is setting up a lot of goals and is scoring also. At the end of his suspension, he is likely to be a player to join the French squad,” noted the France manager.
 
 Griezmann’s subsequent inclusion in the French squad was shadowed by the furore of Samir Nasri’s exclusion, mostly from the non-French media and his Twitter poet of a girlfriend. Not that it mattered to him at all. Deschamps had showed remarkable faith in a player with only one senior cap to his name, and he was not about to let his golden chance slip.
@@ -38,4 +44,6 @@ With impressive performances against Paraguay and Jamaica, and Franck Ribéry in
 
 A move to Atlético Madrid may not have been what many fans and pundits expected, with several of Europe’s richer clubs reported to have been eying up a move for the diminutive winger. However, when broken down, the move makes perfect sense. He would be guaranteed first-team football at the champions of Spain, his creative style can continue to flourish in La Liga, and he has the opportunity to make an even bigger name for himself in European football.
 
-His performances in the Champions League thus far has been far from impressive, having only looked good in Sociedad’s qualifying matches against Lyon, and a move to Madrid’s smaller team may stand him in good stead for his development and progress. It is not exactly the road less travelled, with superstar such as Sergio Agüero, Radamel Falcao and Diego Costa cementing their reputations before further big money moves. It may not be the conventional move for Griezmann, but if his career has been anything to go by, this unexpected change of scenery is nothing new for the kid from Mâcon.
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Fo6qKSNIIHk" frameborder="0" allowfullscreen></iframe>
+
+His performances in the Champions League thus far have been far from impressive, having only looked good in Sociedad’s qualifying matches against Lyon, and a move to Madrid’s smaller team may stand him in good stead for his development and progress. It is not exactly the road less travelled, with superstars such as Sergio Agüero, Radamel Falcao and Diego Costa cementing their reputations before further big money moves. It may not be the conventional move for Griezmann, but if his career has been anything to go by, this unexpected change of scenery is nothing new for the kid from Mâcon.

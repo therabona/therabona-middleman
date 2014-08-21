@@ -7,7 +7,7 @@ tags:
 ---
 
 > “I have said many times that Europe still produces many fantastic football players, but if you look well we do not produce strikers well.”
-> <footer><cite>Arsène Wenger, 2013</cite></footer>
+> <footer><cite>Arsène Wenger</cite></footer>
 
 In an interview last year, the Arsenal manager went on record stating that he believed South America currently produces the best strikers in the world. A quick glance at a list of top strikers in Europe certainly seems to add weight to his claims, with the likes of Neymar, Radamel Falcao, Sergio Agüero, Luis Suárez and Lionel Messi undoubtedly among the world’s greatest marksmen. Their lesser known countrymen also ply their trade in many of Europe’s weaker leagues, as well as around the world in outposts from Canada to Qatar to Australia.
 
@@ -36,7 +36,7 @@ Aside from a hunger generally not found in Europe, the role of futsal in South A
 Europe produces its fair share of good strikers, but they tend to be one dimensional – very good at one or two things. Think Filippo Inzaghi, the man who was born offside. Think Ruud van Nistelrooy, the master finisher. Very rarely will you find a South American version of these two deadly strikers; their representatives tend to come in a more explosive package complete with close control and fabulous dribbling ability. With the exception of Ciro Immobile, the top scorers in Europe’s big five leagues this season are all well-rounded strikers who do much more than put the ball in the back of the net (Ronaldo, Suárez, Robert Lewandowski, Zlatan Ibrahimović). Although most of them are European, they are also exceptions to the rule and reflect the state of the game today which require a complete striker possessing an impressive repertoire of skills. Little wonder then why clubs are so willing to splash the cash on technically gifted South American frontmen.
 
 > “In the summer, you had Falcao going to Monaco, Cavani going to PSG in a big transfer, Suarez everybody wanted to buy him, Higuain has gone to Napoli for a lot of money, but in Europe that is an area where it is difficult to find. In Germany, I can remember in every club you had a big striker, they produced some fantastic ones, but they do not produce young strikers. Is that a consequence of the way we coach? Of modern life? I do not know.”
-> <footer><cite>Arsène Wenger, 2013</cite></footer>
+> <footer><cite>Arsène Wenger</cite></footer>
 
 #### International Proving Grounds
 
@@ -58,6 +58,6 @@ Even Spain have imported South American talent to play for their national team, 
 
 #### Does South America Produce the Best Strikers?
 
-The facts have been presented, and a case can certainly be made for this theory. UEFA consists of 54 member associations while CONMEBOL only consists of 10. Although it can be argued that South American strikers regularly punch above their weight in European club football and at international level, the disparity in numbers mean that it is unlikely that the debate will be conclusively settled by one confederation outperforming another. To conclusively identify and elevate a single component of a football team supplied by a particular continent is to shoehorn the history of the game into a few concrete numbers. It can be said that the current trend does indicate a South American stranglehold on talented forwards in world football, but throughout history, there have been plenty of legendary European forwards such as Francisco Gento, Silvio Piolo, Raúl, and chief among them, Ferenc Puskás.
+The facts have been presented, and a case can certainly be made for this theory. Although it can be argued that South American strikers regularly punch above their weight in European club football and at international level, the disparity in numbers mean that it is unlikely that the debate will be conclusively settled by one confederation outperforming another. To conclusively identify and elevate a single component of a football team supplied by a particular continent is to shoehorn the history of the game into a few concrete numbers. It can be said that the current trend does indicate a South American stranglehold on talented forwards in world football, but throughout history, there have been plenty of legendary European forwards such as Francisco Gento, Silvio Piolo, Raúl, and chief among them, Ferenc Puskás.
 
 Talent is subjective, greatness even more so. Football can be described in numbers, but it cannot be defined by them. The striker debate rages on, but the protagonists involved ensure that the real winners are those watching from the sidelines.

@@ -1,13 +1,13 @@
 ---
-title: Of Lebanovskyi and Kyiv
+title: Of Lobanovskyi and Kyiv
 date: 2014-08-19 01:41 UTC
 category: Secret Footballer
 thumb: lobanovskyi.jpeg
 tags:
 ---
 
-> “With a little work, you can break down Valeri Lobanovsky's background and find the answers that explain why he was one of the greatest footballing minds ever. He was a naturally gifted footballer, albeit very much an individualist and that, ultimately, taught him the value of the collective.”
-> <footer><cite>Gabriele Marcotti, 2013</cite></footer>
+> “With a little work, you can break down Valeriy Lobanovskyi's background and find the answers that explain why he was one of the greatest footballing minds ever. He was a naturally gifted footballer, albeit very much an individualist and that, ultimately, taught him the value of the collective.”
+> <footer><cite>Gabriele Marcotti</cite></footer>
 
 In short, the achievements of the collective was the ultimate yardstick by which the great Valeriy Lobanovskyi measured his career. The legendary Ukrainian manager is synonymous with Dynamo Kyiv, the team he managed for most of his career and where he achieved his greatest successes in management. Two Cup Winners’ Cups and a UEFA Super Cup is no mean feat, especially with clubs taking the former (now defunct) competition very seriously in those days. Aside from his role in transforming Dynamo Kyiv into one of the most feared and technically proficient sides on the continent, Lobanovskyi’s role in marrying sport and science had a huge impact on the modern game, with many of today’s philosophies borne directly from his innovative methodologies.
 
@@ -35,13 +35,19 @@ The results certainly backed up his methods, even if not all of his players took
 
 Perhaps the culmination of his footballing philosophy came in the final of the 1986 Cup Winner’s Cup final against Atlético Madrid. 11 years prior, Dynamo won the same tournament by beating Ferencvárosi in the final, becoming the first Soviet club to win a European trophy much to the chagrin of their Russian counterparts. Already a goal up, Dynamo’s second goal came as a result of a swift counterattack. Running down the left wing, Vasyl Rats would switch the ball to the right, where Belanov swiftly controlled the ball before switching it to the right again. As the ball reached him, Vadym Yevtushenko played a first-time lob to the right where Blokhin lifted the ball over the onrushing goalkeeper for a wonderful second goal. It took about 10 seconds to get the ball from their half into their opponent’s goal, with a move resembling a windshield wiper’s swift sweeping motion. The goal embodied the very ideology championed by Lobanovskyi throughout his career – fast, fluid, simple. In football, two plus two very rarely equals four, but on that night in the Stade de Gerland, Lobanovskyi came as close as anyone to solving the complex science that is football.
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_EZa9Oet2Mk?start=357" frameborder="0" allowfullscreen></iframe>
+
 It was a triumph that would prove to be the pinnacle of his career. Further Soviet Top League titles would follow, as well as a defeat in the final of the 1988 European Championship thanks to a bullet header from Ruud Gullit and Marco van Basten’s volleyed wonder goal. Two undistinguished spells would follow in the UAE and Kuwait, with Lobanovskyi returning home to Dynamo for a second spell in 1997.
 
 #### The Second Coming
 
 Perhaps his second spell at the club would prove to be his greatest unheralded achievement. Having rejoined in January 1997, he set about stabilising the club and optimising the talented young squad he had at his disposal. Shevchenko and Sergei Rebrov were the marksmen, Aleksandr Khatsekevich and Valentin Belkevich ran the show in the middle, while Oleg Luzhny and Kakha Kaladze marshalled the backline. The sextet would be core members of his final great team that won five consecutive league titles between 1997 and 2001. But it is their European exploits that brought them all to the consciousness of the football world. Early indications were served in the 97/98 Champions League, where Dynamo Kyiv reached the quarterfinals, spearheaded by the deadly striking partnership formed by Rebrov and Shevchenko. This run including a 4-0 thrashing of Barcelona at the Nou Camp, with the irrepressible Shevchenko grabbing a hat-trick and Dynamo’s pressing pattern forcing Barcelona to play the game on their terms. The last real team formed under his philosophy of the collective, Lobanovskyi would prepare Dynamo for an assault on Europe the following season, one that very nearly altered the course of one of the most iconic moments in Champions League history.
 
-Having only gained a single point from their opening two matches in the 98/99 Champions League, Dynamo could not afford to lose their third game, against the English champions Arsenal. Losing 1-0 in the third minute of added time, Rebrov found himself in acres of space and made no mistake, firing past the hapless David Seaman to secure a morale-boosting draw for Dynamo. It was the last point they would drop in the group phase, winning three consecutive games, including a 3-1 victory over a shell-shocked Arsenal, to top the group and qualify for the quarterfinals. Drawn against the defending champions, Dynamo were certainly the underdogs going into the tie, with Real Madrid’s legion of superstars including the likes of Roberto Carlos, Clarence Seedorf and Fernando Redondo among others. But as with the rest of his career, Lobanovskyi would champion the effectiveness of the collective over the individual, even if he did have players who had that extra spark of magic at his disposal.
+Having only gained a single point from their opening two matches in the 98/99 Champions League, Dynamo could not afford to lose their third game, against the English champions Arsenal. Losing 1-0 in the third minute of added time, Rebrov found himself in acres of space and made no mistake, firing past the hapless David Seaman to secure a morale-boosting draw for Dynamo. It was the last point they would drop in the group phase, winning three consecutive games, including a 3-1 victory over a shell-shocked Arsenal, to top the group and qualify for the quarterfinals.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/bwvU2k1vqAs" frameborder="0" allowfullscreen></iframe>
+
+Drawn against the defending champions, Dynamo were certainly the underdogs going into the tie, with Real Madrid’s legion of superstars including the likes of Roberto Carlos, Clarence Seedorf and Fernando Redondo among others. But as with the rest of his career, Lobanovskyi would champion the effectiveness of the collective over the individual, even if he did have players who had that extra spark of magic at his disposal.
 
 At the Bernabéu, Dynamo would take the lead thanks to the electrifying pace of Shevchenko who ran beyond the defence and finished unerringly past Bodo Illgner’s near post with the outside of his right foot. A curtain of silence fell over the stunned Bernabéu before Real quickly regrouped, equalising through Predrag Mijatović’s freekick, leaving the tie finely poised going into the second leg in Kyiv. With the away goal advantage, 80,000 fans crammed into the Olimpiyskiy National Sports Complex to cheer on their heroes. Dynamo held firm in spite of the visitors dominating, before Belkevich put Shevchenko through on goal, only for Illgner to catch the striker, conceding a penalty. He would miss the initial attempt, but quickly pounced on the rebound to give Dynamo the lead. 11 minutes from time, Rebrov scooped the ball over the Real defence, before Shevchenko expertly brought the ball down with his chest and finishing past Illgner to secure Dynamo’s place in the semifinals for the third time.
 
@@ -55,7 +61,7 @@ Lobanovskyi would die doing what he loved most, leading Dynamo Kiev to victory. 
 
 The impact Lobanovskyi had made on a young Shevchenko was never forgotten.
 
-“Lobanovsky was like a father to me. I would like to score a goal and dedicate it to him. It would be fantastic for Milan and me if it helped us to reach the Champions League final,” he reflected.
+“Lobanovskyi was like a father to me. I would like to score a goal and dedicate it to him. It would be fantastic for Milan and me if it helped us to reach the Champions League final,” he reflected.
 
 He duly scored the away goal against Inter that clinched Milan’s place in the final, before slotting home the winning penalty in the final shootout, securing the Champions League that Lobanovskyi had so dearly craved. Flying back to Kyiv at the first opportunity, Shevchenko would place the giant trophy and his winner’s medal on his former coach’s grave, captured in a poignant image. A year later, Shevchenko would return to grave to share his Ballon d’Or award with his fallen mentor.
 
