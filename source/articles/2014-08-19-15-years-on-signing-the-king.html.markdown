@@ -1,10 +1,15 @@
 ---
 title: "15 Years On: Signing the King"
-date: 2014-08-19 01:31 UTC
+date: 2014-08-19 14:37 UTC
 category: Secret Footballer
 thumb: thenry.jpg
 tags:
 ---
+
+> “The first day that he came into the dressing room, I did not dare to look him in the face. I knew everything that he had done in England.”
+> <footer><cite>Lionel Messi</cite></footer>
+
+READMORE
 
 Skyward fingers. Striking a tired pose against the goal post. Contrasting a clean, boyish face against an aged and bearded reservist, heaving at the renewed pace of the game. Breaking free of five man defences. Lounging about the pitch looking bored and uninspired. He’s scored! He’s scored for Arsenal at the Bernabeu! That’s clearly a handball!
 
@@ -22,10 +27,10 @@ A final hurrah. 2006 was the crowning of the King, a headpiece of personal achie
 
 Save. Comfortably. Smothered, just like Arsenal's European dreams.
 
-A final whimper. A fragmented team, torn asunder by a failed European venture and renewed competition from the domestic league, “they’ve parked their tanks and are firing 50-pound notes at us”, as Henry lay wounded on the sidelines for majority of the campaign. A campaign that ultimately went nowhere as the mediocrity that became typical of his team for the next 6 years grew to normalcy. A quiet, yet emotional end to the Arsenal way, bidden farewell via video and a Barcelona shirt presentation. An increasingly familiar sight for Gooners.
+A final whimper. A fragmented team, torn asunder by a failed European venture and renewed competition from the domestic league, “they’ve parked their tanks and are firing 50-pound notes at us”, as Henry lay wounded on the sidelines for majority of the campaign. A campaign that ultimately went nowhere as the mediocrity that became typical of his team for the next 6 years grew to normalcy. A quiet, yet emotional end to the Arsenal way, bidden farewell via [video](http://www.youtube.com/watch?v=44I5daWoPfQ) and a Barcelona shirt presentation. An increasingly familiar sight for Gooners.
 
 Years in exile. 3 leg breaks. Rising stars sold off to rivals. Banished to the wilderness of a 4th place trophy. The club cried out for another messiah, someone to lead them back to the promised land of genuine contention. The king couldn’t find room in his new kingdom for his stature, stripped of his title and relegated to the wings. He travelled to the New World and the burgeoning MLS, to re-establish himself as royalty to new servants, introducing a spectacular brand to the soccer faithful.
 
 Then Arsenal called once more. The bearded pilgrim crossed the pond to rejoin, albeit temporarily, with his beloved subjects. Age has caught up with the King, who shed his electric pace along with the lines of his youth. A late night in London with Leeds visiting. A tense scoreline, Henry prepares for reintroduction to his hallowed ground. A roar erupts as his makes his way onto the pitch, looking for half a yard to write history.
  
-Flashes of the old player were there, but overwhelmed by a man whose age was telling. No longer used to the rigours of English football, the strength, the commitment, the bravado, Henry was in danger of fading into irrelevant game space. The expectation was overblown. The crowd anxious and raring. Song receives the ball. Henry flits on the defence line, a split second later and he’s free. A perfect touch to set himself up for the shot. He opens his body and aims for the far corner in that old, familiar way.
+Flashes of the old player were there, but overwhelmed by a man whose age was telling. No longer used to the rigours of English football, the strength, the commitment, the bravado, Henry was in danger of fading into irrelevant game space. The expectation was overblown. The crowd anxious and raring. Song receives the ball. Henry flits on the defence line, a split second later and he’s free. A perfect touch to set himself up for the shot. He opens his body and aims for the far corner in that old, [familiar way](http://www.youtube.com/watch?v=ExPNxsVJA9E).

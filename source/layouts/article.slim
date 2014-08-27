@@ -1,6 +1,9 @@
 = wrap_layout :layout do
-  .row
-    .col-md-8.col-md-offset-2
-      h1 = current_article.title unless current_article.nil?
-      = yield
-      p.text-muted.text-center * * *
+  .article
+    .row
+      .col-md-8.col-md-offset-2
+        h1.head = current_article.title unless current_article.nil?
+        = yield
+        p.end.text-muted.text-center * * *
+
+        #disqus_thread

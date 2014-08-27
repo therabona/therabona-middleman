@@ -9,6 +9,8 @@ tags:
 > “With a little work, you can break down Valeriy Lobanovskyi's background and find the answers that explain why he was one of the greatest footballing minds ever. He was a naturally gifted footballer, albeit very much an individualist and that, ultimately, taught him the value of the collective.”
 > <footer><cite>Gabriele Marcotti</cite></footer>
 
+READMORE
+
 In short, the achievements of the collective was the ultimate yardstick by which the great Valeriy Lobanovskyi measured his career. The legendary Ukrainian manager is synonymous with Dynamo Kyiv, the team he managed for most of his career and where he achieved his greatest successes in management. Two Cup Winners’ Cups and a UEFA Super Cup is no mean feat, especially with clubs taking the former (now defunct) competition very seriously in those days. Aside from his role in transforming Dynamo Kyiv into one of the most feared and technically proficient sides on the continent, Lobanovskyi’s role in marrying sport and science had a huge impact on the modern game, with many of today’s philosophies borne directly from his innovative methodologies.
 
 He first took over Dynamo Kyiv in 1974, after a spell at Dnipro Dnipropetrovsk which saw them get promoted to the Soviet Top League. Dynamo would come calling and Lobanovskyi would pack his bags for his beloved club where he would stay for the next 17 years, in between three spells in charge of the USSR. Breaking the dominance of Russian clubs, by the end of his tenure, Dynamo Kiev were the most successful team in the history of the Soviet Top League with 13 league titles to their name, eight of which were contributed by Lobanovskyi.

@@ -1,5 +1,5 @@
 ---
-title: Are South American Strikers In A League of Their Own
+title: Are South American Strikers In A League of Their Own?
 date: 2014-08-19 01:34 UTC
 category: Secret Footballer
 thumb: sa-strikers.jpg
@@ -8,6 +8,8 @@ tags:
 
 > “I have said many times that Europe still produces many fantastic football players, but if you look well we do not produce strikers well.”
 > <footer><cite>Arsène Wenger</cite></footer>
+
+READMORE
 
 In an interview last year, the Arsenal manager went on record stating that he believed South America currently produces the best strikers in the world. A quick glance at a list of top strikers in Europe certainly seems to add weight to his claims, with the likes of Neymar, Radamel Falcao, Sergio Agüero, Luis Suárez and Lionel Messi undoubtedly among the world’s greatest marksmen. Their lesser known countrymen also ply their trade in many of Europe’s weaker leagues, as well as around the world in outposts from Canada to Qatar to Australia.
 
@@ -54,7 +56,7 @@ Before South Americans began flooding European leagues en masse, the likes of It
 
 In later years, Juan Alberto Schiaffino, Omar Sivori, and José Altafini would win two World Cups and a Copa América between them, before packing their bags for a one-way ticket to Italy to embrace a new future and a new national team. Although no longer widespread, the practice is still in place today, with the likes of Amauri, and most recently, Pablo Osvaldo, among Italy’s latest oriundi strikers.
 
-Even Spain have imported South American talent to play for their national team, most notably the legendary Di Stéfano, who donned the red of Spain between 1957 and 1961, amassing 31 caps and scoring 23 times. Other notable names include the Argentinians, Juan Antonia Pizzi and José Eulogio Gárate, and the less successful Brazilians, Catanha and Diego Costa, although the latter still has time on his side. The practice of naturalising South Americans has caught on in recent times, with several countries securing forwards of South American descent to help out their national teams, including Croatia’s Eduardo and Germany’s Cacau.
+Even Spain have imported South American talent to play for their national team, most notably the legendary Di Stéfano, who donned the red of Spain between 1957 and 1961, amassing 31 caps and scoring 23 times. Other notable names include the Argentinians, Juan Antoni0 Pizzi and José Eulogio Gárate, and the less successful Brazilians, Catanha and Diego Costa, although the latter still has time on his side. The practice of naturalising South Americans has caught on in recent times, with several countries securing forwards of South American descent to help out their national teams, including Croatia’s Eduardo and Germany’s Cacau.
 
 #### Does South America Produce the Best Strikers?
 

@@ -1,5 +1,5 @@
 ---
-title: The Curious Case of – Martín Palermo
+title: "The Curious Case of – Martín Palermo"
 date: 2014-08-19 01:44 UTC
 category: Secret Footballer
 thumb: mpalermo.jpg
@@ -8,6 +8,8 @@ tags:
 
 > “The goals I scored were normal, Palermo makes miracles.”
 > <footer><cite>Diego Maradona</cite></footer>
+
+READMORE
 
 A folk hero to Boca Juniors, Championship Manager players, and to some extent, Argentina, Martín Palermo was a player who never quite hit the heights he seemed destined for, but is still remembered fondly by those he impacted with his passionate performances on the pitch. At his testimonial, a packed La Bombonera turned out to salute the Boca legend with all the vigour of a Copa Libertadores final. After the game had finished, a tearful Palermo embraced family members and delivered a heartfelt speech to the Boca faithful as forklifts uprooted one of the goals. It was quickly wrapped with a blue and gold bow before Boca presented it to Palermo. An unorthodox present perhaps, but it was a testament to the high regard in which his club held him. What Naohiro Takahara would give for a sliver of his success…
 
@@ -45,7 +47,8 @@ But perhaps his greatest moment of redemption came in the 2010 World Cup qualifi
 
 Cue mass pandemonium. Palermo reeled away in delight and relief, ripping off his shirt as his teammates mobbed him. Cameras cut away to Maradona sliding across the pitch on his belly before panning back to Palermo cutting a lone figure in the torrential rain. With his arms spread wide, he looked to the heavens, soaking up the glory of his very own Shawshank Redemption moment. Argentina would go on to defeat Uruguay in their final qualifier to secure their place in the 2010 World Cup, a tournament which Palermo would be part of.
 
-“It was incomparable because it was for the national team at a time like this. I don't know if it was fate but I thank God for this triumph.” – Martín Palermo
+> “It was incomparable because it was for the national team at a time like this. I don't know if it was fate but I thank God for this triumph.”
+> <footer><cite>Martín Palermo</cite></footer>
 
 In South Africa, Palermo would come on as an 80th minute substitute for Diego Milito in the final group game against Greece. Towards the end of the game, Messi went on a jinking run, evading several defenders before firing away a shot which the Greek goalkeeper could only parry into the path of Palermo. Pouncing on the rebound, he made no mistake and slotted home past the Greek keeper with his weaker right foot.
 

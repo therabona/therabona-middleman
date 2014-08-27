@@ -1,5 +1,5 @@
 ---
-title: The Curious Case of – Antoine Griezmann
+title: "The Curious Case of – Antoine Griezmann"
 date: 2014-08-19 00:59 UTC
 category: Secret Footballer
 thumb: agriezmann.jpg
@@ -9,6 +9,7 @@ tags:
 > “He has a certain quality and sparkle that make him a different type of player to the others.”
 > <footer><cite>Didier Deschamps</cite></footer>
 
+READMORE
 
 As the ink dries on Antoine Griezmann's six-year contract with Atletico Madrid, the small city of Mâcon must seem worlds away from the bright lights of the Spanish capital. At his unveiling on the hallowed turf of the Vicente Calderón, there is even time to indulge in a selfie that would make the rounds online in no time. The fee shelled out remains undisclosed, but reports in Spain suggest that his buyout clause was activated, which means that Los Colchoneros were convinced that thing young Frenchman was worth around €30m. At 23 years of age, Griezmann has the world at his feet, but he could have had it sooner.
 

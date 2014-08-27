@@ -1,11 +1,15 @@
----
-pageable: true
-per_page: 10
----
+.feed
+  .row
+    .col-sm-8.col-sm-offset-2
+      h1.head  Articles
 
-.row
-  .col-sm-8
-    - blog.articles.each do |article|
-      article
-        h4: a href=article.url = article.title
-        p = article.summary
+  - blog.articles.each do |article|
+    article
+      .row
+        .col-sm-2.col-sm-offset-2
+          a.thumb href=article.url
+            = image_tag article.data.thumb
+            .transparent
+
+        .col-sm-6
+          = article.summary

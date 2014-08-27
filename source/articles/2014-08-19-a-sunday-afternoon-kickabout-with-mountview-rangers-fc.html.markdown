@@ -1,11 +1,14 @@
 ---
 title: A Sunday Afternoon Kickabout with Mountview Rangers FC
-date: 2014-08-19 12:21 UTC
+date: 2014-08-19 14:32 UTC
 category: Asian League Review
-author: Caleb Khew
 thumb: sunday.jpg
 tags:
 ---
+
+> “Anyone hungry? I found some mushrooms growing by the touchline.”
+
+READMORE
 
 The sun beats down on a heated Sunday afternoon; ideal time for a siesta following a heavy banana leaf lunch. Instead we pile in and trudge on to a unnamed field at a remote location to test out our aversion to heat. 4pm, a school somewhere in Taman Desa, Kuala Lumpur, a field and some footballs.
 
@@ -40,3 +43,4 @@ More drinks, more subs. The crowd, composed of wives, children, friends, donors,
 Not today, as the sun sets and with it the game. Customary handshakes all around, everyone likes how that looks on TV and it feels as good as it should; like a sense of accomplishment and celebration regardless of the score. Mountview Rangers FC come away from the game disappointed by the outcome, as all boys want to do is win. But not much could be expected of inexperienced, untrained bunch of kids brought together by matching outfits.
 
 The idea was always to get things going, to start playing games against other teams, to feel the joy of grass beneath ones boots. There’s nothing like the space afforded by field football, the simple pleasure of rocketing a ball skyward, of set pieces. Mountview Rangers are a long way from being ready to join a league, but the numbers are there, the passion is present, the commitment is cemented. And finally at long last, so is the opportunity.
+

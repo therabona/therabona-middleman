@@ -1,5 +1,5 @@
 ---
-title: Nakata – An Appreciation
+title: "Nakata – An Appreciation"
 date: 2014-08-21 06:20 UTC
 category: Secret Footballer
 thumb: nakata.jpg
@@ -8,6 +8,8 @@ tags:
 
 > “I could feel that the team were playing just for money and not for the sake of having fun. I always felt that a team was like a big family, but it stopped being like that. I was sad, that’s why I stopped at only 29.”
 > <footer><cite>Hidetoshi Nakata</cite></footer>
+
+READMORE
 
 For many of us, playing professional football is the dream. Hidetoshi Nakata was not only lucky enough to live it, he managed to reach the very top of the game is widely seen as a trailblazer for Asians to ply their trade in Europe. The 2002 World Cup jointly hosted by South Korea and Japan brought the Asian game to a whole new level and demonstrated just how important a market it was for European club football to recruit legitimate talent that paid for itself commercially. On the back of it, Lee Young-pyo and Park Ji-sung were two other Asian players that earned moves to Europe after the tournament. Players from Japan, South Korea, Iran and other Asian regions are regular features in leagues all over Europe today, but no Asian player could come close to what Nakata had to offer. Yasuhiko Okudera may have been the first Asian to score in the European Cup while Cha Bum-kun may have been the first Asian to win a European trophy, but their brilliance was unfortunate to be on show in an era where commercialism had yet to take over the game.
 
