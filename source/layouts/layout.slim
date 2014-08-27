@@ -4,7 +4,20 @@ html lang="en"
     meta charset="utf-8"
     meta content="IE=edge" http-equiv="X-UA-Compatible"
     meta content="width=device-width, initial-scale=1" name="viewport"
-    link href="../../favicon.ico" rel="icon"
+
+    - if current_article.nil?
+      meta property="og:title" itemprop="name" name="twitter:title" content="The Rabona"
+      meta property="og:type" content="website"
+      meta property="og:image" itemprop="image" name="twitter:image:src" content="http://therabona.com#{image_path("rabona-fb-og.jpg")}"
+      meta property="og:description" itemprop="description" name="description" content="The Rabona was formed as a project between four passionate football fans from Malaysia who want to see fans in Asia becoming more cultured as they learn about the global game."
+      meta name="twitter:description" content="The Rabona was formed as a project between four passionate football fans from Malaysia who want to see fans in Asia becoming more cultured as they learn about the global game."
+    - else
+      meta property="og:title" itemprop="name" name="twitter:title" content="#{current_article.data.title} – The Rabona"
+      meta property="og:description" itemprop="description" name="description" content=truncate(strip_html(current_article.summary), length: 160)
+      meta name="twitter:description" content=truncate(strip_html(current_article.summary), length: 160)
+      meta property="og:image" itemprop="image" name="twitter:image:src" content="http://therabona.com#{image_path(current_article.data.thumb)}"
+    meta property="og:url" content="http://therabona.com"
+
     title The Rabona
 
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"

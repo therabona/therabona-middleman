@@ -8,6 +8,7 @@
 # end
 
 require 'slim'
+require 'nokogiri'
 
 ###
 # Page options, layouts, aliases and proxies
@@ -35,6 +36,13 @@ page "articles/*", layout: :article
 ###
 # Helpers
 ###
+
+helpers do
+  def strip_html(html)
+    string = Nokogiri::HTML(html)
+    string.text.strip
+  end
+end
 
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
