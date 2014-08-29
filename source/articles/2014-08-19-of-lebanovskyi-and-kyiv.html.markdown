@@ -1,7 +1,7 @@
 ---
 title: Of Lobanovskyi and Kyiv
 date: 2014-08-19 01:41 UTC
-category: Secret Footballer
+category: General
 thumb: lobanovskyi.jpeg
 tags:
 ---

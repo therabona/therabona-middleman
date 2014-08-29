@@ -1,7 +1,7 @@
 ---
 title: Are South American Strikers In A League of Their Own?
 date: 2014-08-19 01:34 UTC
-category: Secret Footballer
+category: General
 thumb: sa-strikers.jpg
 tags:
 ---
